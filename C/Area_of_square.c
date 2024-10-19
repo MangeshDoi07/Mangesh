@@ -7,6 +7,6 @@ int main()
     scanf("%d",&l);
 
     float  area = l*l;
-    printf("%f area of square", area);
+    printf("%f area of  square", area);
     return 0;
 }
